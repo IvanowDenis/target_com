@@ -1,0 +1,4 @@
+Navigate into the folder target_com from your terminal/cmd and
+Use next command to run target scraper:
+
+>scrapy crawl target
